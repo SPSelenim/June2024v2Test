@@ -2,32 +2,32 @@
 <testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-05-05T16:47:00 IST" name="Suite" finished-at="2024-05-05T16:47:00 IST" duration-ms="103">
+  <suite started-at="2024-05-05T17:06:37 IST" name="Suite" finished-at="2024-05-05T17:06:49 IST" duration-ms="11940">
     <groups>
     </groups>
-    <test started-at="2024-05-05T16:47:00 IST" name="Test1" finished-at="2024-05-05T16:47:00 IST" duration-ms="33">
+    <test started-at="2024-05-05T17:06:37 IST" name="Test1" finished-at="2024-05-05T17:06:43 IST" duration-ms="6372">
       <class name="com.stc.NewTestv1">
-        <test-method signature="f()[pri:0, instance:com.stc.NewTestv1@7c0c77c7]" started-at="2024-05-05T16:47:00 IST" name="f" finished-at="2024-05-05T16:47:00 IST" duration-ms="5" status="PASS">
+        <test-method signature="f()[pri:0, instance:com.stc.NewTestv1@619713e5]" started-at="2024-05-05T17:06:37 IST" name="f" finished-at="2024-05-05T17:06:43 IST" duration-ms="6344" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- f -->
       </class> <!-- com.stc.NewTestv1 -->
     </test> <!-- Test1 -->
-    <test started-at="2024-05-05T16:47:00 IST" name="Test" finished-at="2024-05-05T16:47:00 IST" duration-ms="10">
+    <test started-at="2024-05-05T17:06:43 IST" name="Test" finished-at="2024-05-05T17:06:49 IST" duration-ms="5556">
       <class name="com.stc.NewTestv2">
-        <test-method signature="f()[pri:0, instance:com.stc.NewTestv2@31368b99]" started-at="2024-05-05T16:47:00 IST" name="f" finished-at="2024-05-05T16:47:00 IST" duration-ms="1" status="PASS">
+        <test-method signature="f()[pri:0, instance:com.stc.NewTestv2@6ae5aa72]" started-at="2024-05-05T17:06:43 IST" name="f" finished-at="2024-05-05T17:06:43 IST" duration-ms="2" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- f -->
       </class> <!-- com.stc.NewTestv2 -->
       <class name="com.stc.NewTestv1">
-        <test-method signature="f()[pri:0, instance:com.stc.NewTestv1@50b472aa]" started-at="2024-05-05T16:47:00 IST" name="f" finished-at="2024-05-05T16:47:00 IST" duration-ms="1" status="PASS">
+        <test-method signature="f()[pri:0, instance:com.stc.NewTestv1@6c64cb25]" started-at="2024-05-05T17:06:43 IST" name="f" finished-at="2024-05-05T17:06:49 IST" duration-ms="5552" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- f -->
       </class> <!-- com.stc.NewTestv1 -->
       <class name="another.NewTestV3">
-        <test-method signature="f()[pri:0, instance:another.NewTestV3@1725dc0f]" started-at="2024-05-05T16:47:00 IST" name="f" finished-at="2024-05-05T16:47:00 IST" duration-ms="1" status="PASS">
+        <test-method signature="f()[pri:0, instance:another.NewTestV3@222545dc]" started-at="2024-05-05T17:06:43 IST" name="f" finished-at="2024-05-05T17:06:43 IST" duration-ms="4" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- f -->
